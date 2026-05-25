@@ -1,6 +1,7 @@
+please cite : YANG Y,SUN L, Xu K J, et al. UAV Three-Dimensional Path Planning Based on Improved Dung Beetle Optimizer Algorithm[J]. Applied Science, 2026, 16, 5243
+
 (1) Benchmark Function Test codes in BenchmarkFuncs folder, before run， the following code in benchmarkCEC2022_Test.m need to changed to your corresponding folder:
 rootDir = "D:\CafucCodes\appDev\PapersCodesToGitHub";
-
 
 (2) path planning Function Test codes in path-planningDemo folder, the main.m file is used to start.
 
